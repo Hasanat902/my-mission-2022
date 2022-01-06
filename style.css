@@ -48,3 +48,43 @@ body{
 .person-img{
     width: 350px;
 }
+.mission-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.mission-section h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.mission-card{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.mission-card p{
+    color: grey;
+    font-size: 15px;
+}
+.mission-img{
+    width: 200px;
+}
+.mission{
+    background-color: wheat;
+    padding: 20px 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+.vission{
+    background-color: lightgray;
+    padding: 20px 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+.goals{
+    background-color: thistle;
+    padding: 20px 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
