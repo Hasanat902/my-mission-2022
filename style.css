@@ -3,3 +3,48 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+.header-section{
+    display: flex;
+    margin-top: 50px;
+}
+.left-side{
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+.left-side h1{
+    font-size: 50px;
+}
+.mission-title{
+    color: orange;
+}
+.left-side p{
+    text-align: justify;
+    color: grey;
+}
+.heading-border{
+    line-height: 30px;
+    border-left: 4px solid tomato;
+    border-radius: 3px;
+}
+.heading-margin{
+    margin-left: 10px;
+}
+.explore-btn{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+}
+.button{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.right-side{
+    width: 40%;
+    margin-left: 10%;
+}
+.person-img{
+    width: 350px;
+}
