@@ -120,3 +120,27 @@ body{
     color: white;
     border-radius: 5px;
 }
+.community-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.community-img{
+    width: 400px;
+}
+.left-community{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 30px;
+}
+.right-community{
+    width: 30%;
+}
+.left-community h1{
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 20px;
+}
+.left-community p{
+    color: grey;
+    margin-bottom: 30px;
+}
